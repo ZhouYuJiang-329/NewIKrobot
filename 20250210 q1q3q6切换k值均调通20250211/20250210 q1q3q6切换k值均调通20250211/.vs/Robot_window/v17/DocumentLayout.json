@@ -1,61 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\",
+  "WorkspaceRootPath": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u5FAE\u4FE1\\wechat files\\wxid_merjgwyu4wtx22\\filestorage\\file\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robot_window\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u5FAE\u4FE1\\wechat files\\wxid_merjgwyu4wtx22\\filestorage\\file\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robot_window\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u5FAE\u4FE1\\wechat files\\wxid_merjgwyu4wtx22\\filestorage\\file\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robot_window\\menuevents\\menuevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\newikrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robot_window\\menuevents\\menuevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\menuevents\\menuevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|d:\\\u5FAE\u4FE1\\wechat files\\wxid_merjgwyu4wtx22\\filestorage\\file\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robotlibrary\\pathclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|solutionrelative:robotlibrary\\pathclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u5FAE\u4FE1\\wechat files\\wxid_merjgwyu4wtx22\\filestorage\\file\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robot_window\\viewmodels\\chart2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\viewmodels\\chart2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|d:\\\u5FAE\u4FE1\\wechat files\\wxid_merjgwyu4wtx22\\filestorage\\file\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robotlibrary\\trajectoryplanning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\newikrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robotlibrary\\trajectoryplanning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|solutionrelative:robotlibrary\\trajectoryplanning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|d:\\\u5FAE\u4FE1\\wechat files\\wxid_merjgwyu4wtx22\\filestorage\\file\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robotlibrary\\cartesianposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\newikrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robotlibrary\\pathclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|solutionrelative:robotlibrary\\pathclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\newikrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robot_window\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\newikrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robot_window\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\newikrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robot_window\\viewmodels\\chart2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\viewmodels\\chart2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\newikrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robotlibrary\\cartesianposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|solutionrelative:robotlibrary\\cartesianposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u5FAE\u4FE1\\wechat files\\wxid_merjgwyu4wtx22\\filestorage\\file\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robot_window\\viewmodels\\chart2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\newikrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robot_window\\viewmodels\\chart2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\viewmodels\\chart2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u5FAE\u4FE1\\wechat files\\wxid_merjgwyu4wtx22\\filestorage\\file\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robot_window\\viewmodels\\gridpath.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\newikrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robot_window\\viewmodels\\gridpath.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\viewmodels\\gridpath.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|d:\\\u5FAE\u4FE1\\wechat files\\wxid_merjgwyu4wtx22\\filestorage\\file\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robotlibrary\\basicalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\newikrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robotlibrary\\basicalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|solutionrelative:robotlibrary\\basicalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u5FAE\u4FE1\\wechat files\\wxid_merjgwyu4wtx22\\filestorage\\file\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robot_window\\viewmodels\\linepathwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\newikrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robot_window\\viewmodels\\linepathwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\viewmodels\\linepathwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|d:\\\u5FAE\u4FE1\\wechat files\\wxid_merjgwyu4wtx22\\filestorage\\file\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robotlibrary\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\newikrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robotlibrary\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAC52CC1-A3C8-468B-A010-02B02C2B3EC6}|RobotLibrary\\RobotLibrary.csproj|solutionrelative:robotlibrary\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u5FAE\u4FE1\\wechat files\\wxid_merjgwyu4wtx22\\filestorage\\file\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robot_window\\control2183\\control2183.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\newikrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robot_window\\control2183\\control2183.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\control2183\\control2183.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u5FAE\u4FE1\\wechat files\\wxid_merjgwyu4wtx22\\filestorage\\file\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robot_window\\ui_page\\falanmovepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|d:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\newikrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\robot_window\\ui_page\\falanmovepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E097C482-6A12-469C-AB20-81D8B3263242}|Robot_window\\Robot_window.csproj|solutionrelative:robot_window\\ui_page\\falanmovepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,15 +66,15 @@
       "DocumentGroups": [
         {
           "DockedHeight": 358,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Position.cs",
-              "DocumentMoniker": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\Position.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\Position.cs",
               "RelativeDocumentMoniker": "RobotLibrary\\Position.cs",
-              "ToolTip": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\Position.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\Position.cs",
               "RelativeToolTip": "RobotLibrary\\Position.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,71 +99,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Robot_window\\MainWindow.xaml",
-              "ToolTip": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\MainWindow.xaml",
-              "RelativeToolTip": "Robot_window\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-30T02:37:46.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Robot_window\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\MainWindow.xaml.cs",
               "RelativeToolTip": "Robot_window\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAPgCAAAAAAAAAAAQwPsCAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAJMCAAAAAAAAAAAAAJcCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T03:02:21.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MenuEvents.cs",
-              "DocumentMoniker": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\MenuEvents\\MenuEvents.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\MenuEvents\\MenuEvents.cs",
               "RelativeDocumentMoniker": "Robot_window\\MenuEvents\\MenuEvents.cs",
-              "ToolTip": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\MenuEvents\\MenuEvents.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\MenuEvents\\MenuEvents.cs",
               "RelativeToolTip": "Robot_window\\MenuEvents\\MenuEvents.cs",
-              "ViewState": "AgIAAJICAAAAAAAAAAAAwKACAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAHkCAAAAAAAAAAAkwGwCAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T02:03:10.544Z"
+              "WhenOpened": "2024-11-09T02:03:10.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "chart2.xaml",
-              "DocumentMoniker": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\ViewModels\\chart2.xaml",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\ViewModels\\chart2.xaml",
               "RelativeDocumentMoniker": "Robot_window\\ViewModels\\chart2.xaml",
-              "ToolTip": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\ViewModels\\chart2.xaml",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\ViewModels\\chart2.xaml",
               "RelativeToolTip": "Robot_window\\ViewModels\\chart2.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-27T09:49:35.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PathClass.cs",
-              "DocumentMoniker": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\PathClass.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\PathClass.cs",
               "RelativeDocumentMoniker": "RobotLibrary\\PathClass.cs",
-              "ToolTip": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\PathClass.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\PathClass.cs",
               "RelativeToolTip": "RobotLibrary\\PathClass.cs",
-              "ViewState": "AgIAALECAAAAAAAAAAAswLsCAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACwCAAAAAAAAAAAAADgCAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T01:26:56.69Z"
+              "WhenOpened": "2024-11-09T01:26:56.69Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "chart2.xaml.cs",
-              "DocumentMoniker": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\ViewModels\\chart2.xaml.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\ViewModels\\chart2.xaml.cs",
               "RelativeDocumentMoniker": "Robot_window\\ViewModels\\chart2.xaml.cs",
-              "ToolTip": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\ViewModels\\chart2.xaml.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\ViewModels\\chart2.xaml.cs",
               "RelativeToolTip": "Robot_window\\ViewModels\\chart2.xaml.cs",
               "ViewState": "AgIAAHwAAAAAAAAAAAAwwIYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -171,23 +161,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "TrajectoryPlanning.cs",
-              "DocumentMoniker": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\TrajectoryPlanning.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\TrajectoryPlanning.cs",
               "RelativeDocumentMoniker": "RobotLibrary\\TrajectoryPlanning.cs",
-              "ToolTip": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\TrajectoryPlanning.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\TrajectoryPlanning.cs",
               "RelativeToolTip": "RobotLibrary\\TrajectoryPlanning.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCMAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAApwCMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T07:47:57.509Z"
+              "WhenOpened": "2025-01-16T07:47:57.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Robot_window\\MainWindow.xaml",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\MainWindow.xaml",
+              "RelativeToolTip": "Robot_window\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-30T02:37:46.654Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "CartesianPosition.cs",
-              "DocumentMoniker": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\CartesianPosition.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\CartesianPosition.cs",
               "RelativeDocumentMoniker": "RobotLibrary\\CartesianPosition.cs",
-              "ToolTip": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\CartesianPosition.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\CartesianPosition.cs",
               "RelativeToolTip": "RobotLibrary\\CartesianPosition.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAywBwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -197,9 +200,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "LinePathWindow.xaml",
-              "DocumentMoniker": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\ViewModels\\LinePathWindow.xaml",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\ViewModels\\LinePathWindow.xaml",
               "RelativeDocumentMoniker": "Robot_window\\ViewModels\\LinePathWindow.xaml",
-              "ToolTip": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\ViewModels\\LinePathWindow.xaml",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\ViewModels\\LinePathWindow.xaml",
               "RelativeToolTip": "Robot_window\\ViewModels\\LinePathWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-27T06:29:03.666Z"
@@ -208,9 +211,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "BasicAlgorithm.cs",
-              "DocumentMoniker": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\BasicAlgorithm.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\BasicAlgorithm.cs",
               "RelativeDocumentMoniker": "RobotLibrary\\BasicAlgorithm.cs",
-              "ToolTip": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\BasicAlgorithm.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\RobotLibrary\\BasicAlgorithm.cs",
               "RelativeToolTip": "RobotLibrary\\BasicAlgorithm.cs",
               "ViewState": "AgIAAFQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -220,9 +223,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "GridPath.xaml",
-              "DocumentMoniker": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\ViewModels\\GridPath.xaml",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\ViewModels\\GridPath.xaml",
               "RelativeDocumentMoniker": "Robot_window\\ViewModels\\GridPath.xaml",
-              "ToolTip": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\ViewModels\\GridPath.xaml",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\ViewModels\\GridPath.xaml",
               "RelativeToolTip": "Robot_window\\ViewModels\\GridPath.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-27T06:29:34.854Z"
@@ -231,9 +234,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Control2183.cs",
-              "DocumentMoniker": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\Control2183\\Control2183.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\Control2183\\Control2183.cs",
               "RelativeDocumentMoniker": "Robot_window\\Control2183\\Control2183.cs",
-              "ToolTip": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\Control2183\\Control2183.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\Control2183\\Control2183.cs",
               "RelativeToolTip": "Robot_window\\Control2183\\Control2183.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -243,9 +246,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "FaLanMovepage.xaml.cs",
-              "DocumentMoniker": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\UI_Page\\FaLanMovepage.xaml.cs",
+              "DocumentMoniker": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\UI_Page\\FaLanMovepage.xaml.cs",
               "RelativeDocumentMoniker": "Robot_window\\UI_Page\\FaLanMovepage.xaml.cs",
-              "ToolTip": "D:\\\u5FAE\u4FE1\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\UI_Page\\FaLanMovepage.xaml.cs",
+              "ToolTip": "D:\\\u7814\u7A76\u751F0\\\u673A\u5668\u4EBA\\\u65B0\u7B97\u6CD5\u4ED3\u5E93\\NewIKrobot\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\20250210 q1q3q6\u5207\u6362k\u503C\u5747\u8C03\u901A20250211\\Robot_window\\UI_Page\\FaLanMovepage.xaml.cs",
               "RelativeToolTip": "Robot_window\\UI_Page\\FaLanMovepage.xaml.cs",
               "ViewState": "AgIAAGUAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

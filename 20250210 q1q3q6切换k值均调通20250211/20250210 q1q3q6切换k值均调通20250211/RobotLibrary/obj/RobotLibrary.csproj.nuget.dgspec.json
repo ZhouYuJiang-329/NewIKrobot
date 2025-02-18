@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\微信\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6切换k值均调通20250211\\20250210 q1q3q6切换k值均调通20250211\\RobotLibrary\\RobotLibrary.csproj": {}
+    "D:\\研究生0\\机器人\\新算法仓库\\NewIKrobot\\20250210 q1q3q6切换k值均调通20250211\\20250210 q1q3q6切换k值均调通20250211\\RobotLibrary\\RobotLibrary.csproj": {}
   },
   "projects": {
-    "D:\\微信\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6切换k值均调通20250211\\20250210 q1q3q6切换k值均调通20250211\\RobotLibrary\\RobotLibrary.csproj": {
+    "D:\\研究生0\\机器人\\新算法仓库\\NewIKrobot\\20250210 q1q3q6切换k值均调通20250211\\20250210 q1q3q6切换k值均调通20250211\\RobotLibrary\\RobotLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\微信\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6切换k值均调通20250211\\20250210 q1q3q6切换k值均调通20250211\\RobotLibrary\\RobotLibrary.csproj",
+        "projectUniqueName": "D:\\研究生0\\机器人\\新算法仓库\\NewIKrobot\\20250210 q1q3q6切换k值均调通20250211\\20250210 q1q3q6切换k值均调通20250211\\RobotLibrary\\RobotLibrary.csproj",
         "projectName": "RobotLibrary",
-        "projectPath": "D:\\微信\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6切换k值均调通20250211\\20250210 q1q3q6切换k值均调通20250211\\RobotLibrary\\RobotLibrary.csproj",
+        "projectPath": "D:\\研究生0\\机器人\\新算法仓库\\NewIKrobot\\20250210 q1q3q6切换k值均调通20250211\\20250210 q1q3q6切换k值均调通20250211\\RobotLibrary\\RobotLibrary.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\微信\\WeChat Files\\wxid_merjgwyu4wtx22\\FileStorage\\File\\2025-02\\20250210 q1q3q6切换k值均调通20250211\\20250210 q1q3q6切换k值均调通20250211\\RobotLibrary\\obj\\",
+        "outputPath": "D:\\研究生0\\机器人\\新算法仓库\\NewIKrobot\\20250210 q1q3q6切换k值均调通20250211\\20250210 q1q3q6切换k值均调通20250211\\RobotLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual studio2022\\shared\\NuGetPackages"

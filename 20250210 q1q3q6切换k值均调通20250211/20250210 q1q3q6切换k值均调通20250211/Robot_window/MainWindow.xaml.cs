@@ -609,6 +609,9 @@ namespace Robot_window
                 zfit[k] = menuevents.CartesianPositions[k].Z;
                 k++;
             }
+            Error_Mse(xReal, xfit,"x");
+            Error_Mse(yReal, yfit,"y");
+            Error_Mse(zReal, zfit,"z");
 
             WriteTxt(xReal, "xReal");
             WriteTxt(yReal, "yReal");
@@ -657,6 +660,21 @@ namespace Robot_window
                     writer.WriteLine(item);
                 }
             }
+        }
+
+        private void Error_Mse(double[] xreal, double[] xfit,string name)
+        { 
+            double mse = 0;
+            double maxerror = 0;
+            for (int i = 0; i < xreal.Length; i++)
+            {
+                maxerror = Math.Max(maxerror, Math.Abs(xreal[i] - xfit[i]));
+                mse += (xreal[i] - xfit[i]) * (xreal[i] - xfit[i]);
+            }
+            mse = mse / xreal.Length;
+            Console.WriteLine("MSE"+name+":" + mse.ToString());
+            Console.WriteLine("MaxError"+name+":" + maxerror.ToString()+"mm");
+        
         }
 
 

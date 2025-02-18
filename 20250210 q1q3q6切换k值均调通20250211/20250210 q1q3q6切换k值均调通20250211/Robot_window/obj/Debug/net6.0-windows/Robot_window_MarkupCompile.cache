@@ -4,16 +4,16 @@
 exe
 C#
 .cs
-D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2025-02\20250210 q1q3q6切换k值均调通20250211\20250210 q1q3q6切换k值均调通20250211\Robot_window\obj\Debug\net6.0-windows\
+D:\研究生0\机器人\新算法仓库\NewIKrobot\20250210 q1q3q6切换k值均调通20250211\20250210 q1q3q6切换k值均调通20250211\Robot_window\obj\Debug\net6.0-windows\
 Robot_window
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\微信\WeChat Files\wxid_merjgwyu4wtx22\FileStorage\File\2025-02\20250210 q1q3q6切换k值均调通20250211\20250210 q1q3q6切换k值均调通20250211\Robot_window\App.xaml
+D:\研究生0\机器人\新算法仓库\NewIKrobot\20250210 q1q3q6切换k值均调通20250211\20250210 q1q3q6切换k值均调通20250211\Robot_window\App.xaml
 14301574370
 
 19-740965635
-225323962061
+225-1024654494
 MainWindow.xaml;StyleResources\MenuStyle.xaml;StyleResources\RobotMoveContorlResource.xaml;UI_Page\CartesianMovePage.xaml;UI_Page\FaLanMovepage.xaml;UI_Page\JointMovePage.xaml;ViewModels\chart2.xaml;ViewModels\GridPath.xaml;ViewModels\LinePathWindow.xaml;ViewModels\PointToPathWindow.xaml;ViewModels\RectAngleWindow.xaml;ViewModels\RotundityPathWindow.xaml;ViewModels\SpeedSetWindow.xaml;ViewModels\SphericalPathWindow.xaml;
 
 False
