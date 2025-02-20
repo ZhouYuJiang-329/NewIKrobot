@@ -1,0 +1,20 @@
+﻿Robot_window
+1.0.0.0
+
+exe
+C#
+.cs
+D:\研究生0\机器人\新算法仓库\NewIKrobot\IKfast 20250217\Robot_window\obj\Debug\net6.0-windows\
+Robot_window
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+D:\研究生0\机器人\新算法仓库\NewIKrobot\IKfast 20250217\Robot_window\App.xaml
+14-1113573846
+
+21-170706160
+219-829434098
+MainWindow.xaml;StyleResources\MenuStyle.xaml;StyleResources\RobotMoveContorlResource.xaml;UI_Page\CartesianMovePage.xaml;UI_Page\FaLanMovepage.xaml;UI_Page\JointMovePage.xaml;ViewModels\Chart.xaml;ViewModels\GridPath.xaml;ViewModels\LinePathWindow.xaml;ViewModels\PointToPathWindow.xaml;ViewModels\RectAngleWindow.xaml;ViewModels\RotundityPathWindow.xaml;ViewModels\SpeedSetWindow.xaml;ViewModels\SphericalPathWindow.xaml;
+
+False
+
