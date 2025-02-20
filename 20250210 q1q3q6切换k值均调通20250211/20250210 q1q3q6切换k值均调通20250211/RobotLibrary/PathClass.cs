@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Numerics;
 using System.Runtime.ConstrainedExecution;
@@ -432,9 +433,15 @@ namespace RobotLibrary
             return result;
         }
 
+        public static double tik=0;
         // 类外正解
         public static Position IK_New(CartesianPosition endpose, Matrix4x4? Grip2Tool = null)
         {
+            Stopwatch stopwatch = new Stopwatch();
+
+            // 开始计时
+            stopwatch.Start();
+
             Matrix4x4 Grip2ToolMatrix = Grip2Tool ?? Matrix4x4.Identity; //
 
             Matrix4x4 tool2GripMatrix = new Matrix4x4();
@@ -693,6 +700,11 @@ namespace RobotLibrary
             var pnew = FKNewRad(Q);           // 返回X  Y  Z  Rx   Ry   Rz     欧拉角
             position.Pose = pnew;
             position.Pose.t = endpose.t;
+            stopwatch.Stop();
+
+            // 获取并输出经过的时间
+            TimeSpan elapsed = stopwatch.Elapsed;
+            tik += elapsed.TotalMilliseconds;
             return position;
             //Q = [q1 q2 q3 q4 q5 q6];
         }
@@ -836,6 +848,8 @@ namespace RobotLibrary
             //}
             double[] result1 = new double[1];
             result1[0] = q3;
+         
+
             return result1;
         }
 

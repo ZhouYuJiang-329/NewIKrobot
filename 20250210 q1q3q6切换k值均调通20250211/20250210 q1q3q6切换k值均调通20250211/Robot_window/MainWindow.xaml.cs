@@ -545,6 +545,11 @@ namespace Robot_window
             {
                 menuevents.MovePositions.Add(PathClass.IK_New(CartesianPosition.mmTom()));
             }
+            double ttotal = PathClass.tik;
+            double tavgerage = ttotal / menuevents.CartesianPositions.Count;
+            Console.WriteLine("总共逆解次数："+menuevents.CartesianPositions.Count.ToString());
+            Console.WriteLine("逆解总时间：" + ttotal.ToString()+"ms");
+            Console.WriteLine("平均逆解时间:" + tavgerage.ToString()+"ms");
             //应该传入拟合的q1-q6代入（我传入期望的轨迹）、有差别，如何调整关节空间
             //发生变化时候，曲线标注出来
             //时间t 0.05
