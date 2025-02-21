@@ -16,5 +16,5 @@ D:\研究生0\机器人\新算法仓库\NewIKrobot\IKfast 20250217\Robot_window\
 219-829434098
 MainWindow.xaml;StyleResources\MenuStyle.xaml;StyleResources\RobotMoveContorlResource.xaml;UI_Page\CartesianMovePage.xaml;UI_Page\FaLanMovepage.xaml;UI_Page\JointMovePage.xaml;ViewModels\Chart.xaml;ViewModels\GridPath.xaml;ViewModels\LinePathWindow.xaml;ViewModels\PointToPathWindow.xaml;ViewModels\RectAngleWindow.xaml;ViewModels\RotundityPathWindow.xaml;ViewModels\SpeedSetWindow.xaml;ViewModels\SphericalPathWindow.xaml;
 
-False
+True
 

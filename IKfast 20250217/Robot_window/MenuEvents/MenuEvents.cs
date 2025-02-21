@@ -799,9 +799,11 @@ namespace Robot_window.MenuEvents
                 zFit[i] = MovePositions[i].Pose.Z*1000;
                 zTrue[i] = PathMovePoints.Points[i].Z;
             }
-            Error_Mse(xTrue, xFit, "X");
-            Error_Mse(yTrue, yFit, "Y");
-            Error_Mse(zTrue, zFit, "Z");
+           double msex= Error_Mse(xTrue, xFit, "X");
+           double msey=  Error_Mse(yTrue, yFit, "Y");
+           double msez= Error_Mse(zTrue, zFit, "Z");
+           Console.WriteLine("三维轨迹MSE:" + (msex+msey+msez).ToString());
+
             Chart chart = new Chart();
             chart.Show();
             chart.pltshow(t, xFit);
@@ -820,7 +822,7 @@ namespace Robot_window.MenuEvents
             chart.SetlegendText("ZTrue");
 
         }
-        private void Error_Mse(double[] xreal, double[] xfit, string name)
+        private double Error_Mse(double[] xreal, double[] xfit, string name)
         {
             double mse = 0;
             double maxerror = 0;
@@ -832,7 +834,7 @@ namespace Robot_window.MenuEvents
             mse = mse / xreal.Length;
             Console.WriteLine("MSE" + name + ":" + mse.ToString());
             Console.WriteLine("MaxError" + name + ":" + maxerror.ToString() + "mm");
-
+            return mse;
         }
     }
 }

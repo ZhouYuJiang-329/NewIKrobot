@@ -614,9 +614,10 @@ namespace Robot_window
                 zfit[k] = menuevents.CartesianPositions[k].Z;
                 k++;
             }
-            Error_Mse(xReal, xfit,"x");
-            Error_Mse(yReal, yfit,"y");
-            Error_Mse(zReal, zfit,"z");
+            double msex=Error_Mse(xReal, xfit,"x");
+            double msey =Error_Mse(yReal, yfit,"y");
+            double msez = Error_Mse(zReal, zfit,"z");
+            Console.WriteLine("三维轨迹的MSE:"+(msex+msey+msez).ToString());
 
             WriteTxt(xReal, "xReal");
             WriteTxt(yReal, "yReal");
@@ -667,7 +668,7 @@ namespace Robot_window
             }
         }
 
-        private void Error_Mse(double[] xreal, double[] xfit,string name)
+        private double Error_Mse(double[] xreal, double[] xfit,string name)
         { 
             double mse = 0;
             double maxerror = 0;
@@ -679,7 +680,7 @@ namespace Robot_window
             mse = mse / xreal.Length;
             Console.WriteLine("MSE"+name+":" + mse.ToString());
             Console.WriteLine("MaxError"+name+":" + maxerror.ToString()+"mm");
-        
+            return mse;
         }
 
 
