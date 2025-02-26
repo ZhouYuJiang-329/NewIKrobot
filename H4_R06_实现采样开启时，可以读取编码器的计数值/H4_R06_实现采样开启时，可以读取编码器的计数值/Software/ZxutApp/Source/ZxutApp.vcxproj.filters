@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ColorStaticST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DataProcThrd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgAbout.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgBrdInfo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgChanEnb.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgDevUpd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgDigIn.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgDigOut.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgEncModu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgFftProc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgFlawGate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgFlawParam.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgKeyHlp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgSysSetting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgTcgProc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgWaitCnnct.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FftShow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FlawGateAdj.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FlawParamAdj.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="InPlaceComboBox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Led.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SmplShow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="XSleep.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZxutApp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZxutDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DataShowThrd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ColorStaticST.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DataProcThrd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgAbout.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgBrdInfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgChanEnb.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgDevUpd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgDigIn.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgDigOut.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgEncModu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgFftProc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgFlawGate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgFlawParam.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgKeyHlp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgSysSetting.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgTcgProc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgWaitCnnct.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FftShow.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FlawGateAdj.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FlawParamAdj.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FlawParamDef.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="InPlaceComboBox.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Led.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SmplShow.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="XSleep.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZxutApp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZxutDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZxutExp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="../../zxut_linux/ZxutCmn.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DataShowThrd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\BaseMapFft.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\BaseMapSmpl.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Led.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ZxLogo.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ZxutApp.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ZxutApp.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\ZxutApp.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+</Project>
